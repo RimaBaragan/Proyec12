@@ -21,4 +21,4 @@ Para lograrlo, el proyecto se divide en tres fases críticas:
 * **Simulación:** Ejecución de 1,000 iteraciones de bootstrapping para obtener el intervalo de confianza del 95%.
 
 ## 📈 Conclusiones Técnicas
-En consecuencia, con la evidencia generada, no se recomienda invertir en el desarrollo de pozos petrolíferos en ninguna de las regiones evaluadas, ya que ninguna de ellas ofrece una probabilidad realista de obtener beneficios económicos bajo las condiciones actuales.
+Con la evidencia generada, no se recomienda invertir en el desarrollo de pozos petrolíferos en ninguna de las regiones evaluadas, ya que ninguna de ellas ofrece una probabilidad realista de obtener beneficios económicos bajo las condiciones actuales.
